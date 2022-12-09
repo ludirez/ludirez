@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Luis Diaz-Restrepo and I am training in web development. Here I will develop my cover letter.
+
 <!--
 **ludirez/ludirez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,5 +34,10 @@ Here are some ideas to get you started:-->
 - 👯 I am looking to collaborate in or be part of a project that develops solutions based on software
 
 - 📫 LinkedIn: https://www.linkedin.com/in/tsu-luisdiaz-r/
+
+-   platform courses:
+    💚Platzi: https://platzi.com/p/luisdr/
+
+-   self-taught courses:
 
 

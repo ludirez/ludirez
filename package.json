@@ -1,0 +1,20 @@
+{
+  "name": "ludirez",
+  "version": "1.0.0",
+  "description": "My name is Luis Diaz-Restrepo and I am training in web development. Here I will develop my cover letter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ludirez/ludirez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ludirez/ludirez/issues"
+  },
+  "homepage": "https://github.com/ludirez/ludirez#readme"
+}
