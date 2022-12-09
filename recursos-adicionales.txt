@@ -1,0 +1,8 @@
+para leer sobre GitHub pages
+    https://www.npmjs.com/package/gh-pages
+
+deploy en GitHub pages
+1.- instalar en el proyecto: npm install gh-pages --save-dev
+2.- configurar .json/script: "deploy": "gh-pages -d src"
+3.- subir todos estos cambios al repository
+

@@ -4,7 +4,9 @@
   "description": "My name is Luis Diaz-Restrepo and I am training in web development. Here I will develop my cover letter.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d src"
+    
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ludirez/ludirez/issues"
   },
-  "homepage": "https://github.com/ludirez/ludirez#readme"
+  "homepage": "https://github.com/ludirez/ludirez#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
 }
