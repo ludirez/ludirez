@@ -38,7 +38,7 @@ Here are some ideas to get you started:-->
 
 - 🤝 I am looking to collaborate in or be part of a project that develops solutions based on software
 
-- 📫 LinkedIn: https://www.linkedin.com/in/tsu-luisdiaz-r/
+- 📫 LinkedIn: https://www.linkedin.com/in/luisdiaz-restrepo/
 
 - 👨‍🎓 self-taught platform courses:
     💚Platzi: https://platzi.com/p/luisdr/
