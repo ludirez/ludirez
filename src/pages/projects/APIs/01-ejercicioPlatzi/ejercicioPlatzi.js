@@ -46,3 +46,27 @@ async function fetchData(urlApi) {
 		alert(error);	//reto en el catch: ya que el .log solo se ve en consola. hacer algo para que el usuario vea cuando se genere un error. 
 	}
 })();
+
+
+//ejercicio en forma de nota
+// export async function runCode(url) {
+//   try {
+//     new URL(url);
+//     const response = await fetch(url);
+//     return response.json();
+//    } catch(error) {
+//      if (error.message === "Failed to construct 'URL': Invalid URL"){
+//        throw new Error('Invalid URL');
+//      } else {
+//        throw new Error('Something was wrong');
+//      }
+//    }
+// }
+
+
+// function generandoNumero() {
+// 	let num = Math.round(Math.random())
+// 	console.log(num);
+//   }
+
+//   setInterval();

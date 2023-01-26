@@ -43,4 +43,5 @@ Here are some ideas to get you started:-->
 - 👨‍🎓 self-taught platform courses:
     💚Platzi: https://platzi.com/p/luisdr/
 
-
+- website under construction
+## https://ludirez.github.io/ludirez/
